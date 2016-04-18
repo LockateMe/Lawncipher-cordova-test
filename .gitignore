@@ -1,0 +1,9 @@
+platforms/
+plugins/
+node_modules/
+bower_components/
+.DS_Store
+
+www/js/lawncipher.js
+www/js/lawncipher-test.js
+www/js/sodium.min.js
