@@ -7,3 +7,4 @@ bower_components/
 www/js/lawncipher.js
 www/js/lawncipher-test.js
 www/js/sodium.min.js
+www/js/long.js
